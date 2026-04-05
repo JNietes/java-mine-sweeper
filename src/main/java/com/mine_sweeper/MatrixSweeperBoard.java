@@ -1,3 +1,4 @@
+package com.mine_sweeper;
 public class MatrixSweeperBoard {
     int minesFlagged;
     int flagsLeft;
